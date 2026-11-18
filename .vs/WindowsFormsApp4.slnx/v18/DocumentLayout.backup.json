@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{593450A6-1197-4665-BA8A-949CD2A34575}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{593450A6-1197-4665-BA8A-949CD2A34575}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593450A6-1197-4665-BA8A-949CD2A34575}|WindowsFormsApp4\\WindowsFormsApp4.csproj|c:\\users\\sebas\\source\\repos\\windowsformsapp4\\windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593450A6-1197-4665-BA8A-949CD2A34575}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593450A6-1197-4665-BA8A-949CD2A34575}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593450A6-1197-4665-BA8A-949CD2A34575}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593450A6-1197-4665-BA8A-949CD2A34575}|WindowsFormsApp4\\WindowsFormsApp4.csproj|C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\windowsformsapp4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593450A6-1197-4665-BA8A-949CD2A34575}|WindowsFormsApp4\\WindowsFormsApp4.csproj|solutionrelative:windowsformsapp4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 377,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T18:24:38.234Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Form1.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Form1.cs",
+              "ViewState": "AgIAAM0BAAAAAAAAAAAqwO8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:49:09.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Conexion.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Conexion.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Conexion.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:48:39.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Class1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp4\\Class1.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\WindowsFormsApp4\\WindowsFormsApp4\\Class1.cs",
+              "RelativeToolTip": "WindowsFormsApp4\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T18:48:33.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
